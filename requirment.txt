@@ -1,0 +1,5 @@
+1.step1:Install node module
+2.by $node init
+3.step2:install prompt-sync module 
+4.by $node install prompt-sync
+  (this module is required to take input from user)
